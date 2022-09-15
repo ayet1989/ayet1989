@@ -1,18 +1,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
-https://o1.siar.us/dutatv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NftAUY4.png" group-title="LOKAL",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -22,7 +15,6 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Lokal",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="Lokal",iNewsTV
@@ -269,41 +261,6 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115677
 #EXTINF:-1, Fox Movies Premium TH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115424
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: Disney+ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b341cdf0d98a2fe1de2fac22cb03efab.png" group-title="Kids",IT: Disney+ Nature
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/169950
-#EXTINF:-1,UK: Disney Channel
-http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/271.ts
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/cartoonnetwork.png",Cartoon Network Asia
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/boomerang.png",Boomerang South East Asia
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/animax.png",Animax Asia
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/aniplus.png",Aniplus
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/miaomi.png",Miao Mi
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/babytv.png",Baby TV Asia
-https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/nickelodeon.png",Nickelodeon South East Asia
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/nickjr.png",Nick Jr Asia
-http://rec2.distv.net:80/aurora/123456/176
-# https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -373,36 +330,11 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1 group-title="SPORT", MU TV
 http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/179
 
-
-#EXTINF:-1 group-title="SPORT",Sport tv Hd
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,Liverpool FC TV HD UK
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/9844
-#EXTINF:-1,Fox Sports 501 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141764
-#EXTINF:-1,Fox Sports 502 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141763
-#EXTINF:-1,Fox Sports 503 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141762
-#EXTINF:-1,Fox Sports 504 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141761
-#EXTINF:-1,Fox Sports 505 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141760
-#EXTINF:-1,Fox Sports 506 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141759
-#EXTINF:-1,Fox Sports 507 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="SPORT",SBS Sports
-http://ye23.win/iptv/sbs5.1.php?id=S02
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="SPORT",beIN Sports 1
 http://new-pro.tv:8080/mazen1/123456/271516
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="SPORT",beIN Sports 2
 http://new-pro.tv:8080/mazen1/123456/271518
-
 
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT1
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272306
@@ -412,83 +344,6 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272307
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT3
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="Qatar ➾ Sports",QA: beIN Sports 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/100
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="Qatar ➾ Sports",QA: beIN Sports 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/101
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="Qatar ➾ Football",QA: beIN Sports 3
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/102
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="Qatar ➾ Sports",QA: beIN Sports 4
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/103
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="Qatar ➾ Sports",QA: beIN Sports 5
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/104
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="Qatar ➾ Sports",QA: beIN Sports 6
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/105
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="Qatar ➾ Sports",QA: beIN Sports 7
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/106
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports AFC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5a43b04dad6fc10852b84369bf4226c3.png" group-title="Qatar ➾ Sports",QA: beIN Sports AFC
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/296113
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports AFC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e410b11d90b6505801e2564c3bb62593.png" group-title="Qatar ➾ Sports",QA: beIN Sports AFC 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/296116
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports AFC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a6b48b1b17ffce6736fa804d10ab5015.png" group-title="Qatar ➾ Sports",QA: beIN Sports AFC 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/296115
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports AFC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/dd2dfdddf7a246cecc4752a917da0a9a.png" group-title="Qatar ➾ Sports",QA: beIN Sports AFC 3
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/296119
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Qatar ➾ Sports",QA: beIN Sports English 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/110
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="Qatar ➾ Sports",QA: beIN Sports English 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/111
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="Qatar ➾ Sports",QA: beIN Sports English 3
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/267769
-#EXTINF:-1,|BN| BEIN SPORT  1 FHD
-http://starshare.live:8080/live/imran007/imran007/4466.ts
-#EXTINF:-1,|AR| BEIN SPORT 6 (HD)
-http://starshare.live:8080/live/imran007/imran007/4467.ts
-#EXTINF:-1,|AR| BEIN SPORT  1 HD
-http://starshare.live:8080/live/imran007/imran007/4468.ts
-#EXTINF:-1,|AR| BEIN SPORT  2 HD
-http://starshare.live:8080/live/imran007/imran007/4469.ts
-#EXTINF:-1,|AR| BEIN SPORT 3 HD
-http://starshare.live:8080/live/imran007/imran007/4470.ts
-#EXTINF:-1,|AR| BEIN SPORT 4 HD
-http://starshare.live:8080/live/imran007/imran007/4471.ts
-#EXTINF:-1,|AR| BEIN SPORT 5 HD
-http://starshare.live:8080/live/imran007/imran007/4472.ts
-#EXTINF:-1,|AR| BEIN SPORT 6 HD
-http://starshare.live:8080/live/imran007/imran007/4473.ts
-#EXTINF:-1,|AR| BEIN SPORT 7 HD
-http://starshare.live:8080/live/imran007/imran007/4474.ts
-#EXTINF:-1,|AR| BEIN SPORT 7 (HD)
-http://starshare.live:8080/live/imran007/imran007/4475.ts
-#EXTINF:-1,|AR| BEIN SPORT 1
-http://starshare.live:8080/live/imran007/imran007/4476.ts
-#EXTINF:-1,|AR| BEIN SPORT  2-SD
-http://starshare.live:8080/live/imran007/imran007/4477.ts
-#EXTINF:-1,|AR| BEIN SPORT 5-SD
-http://starshare.live:8080/live/imran007/imran007/4478.ts
-#EXTINF:-1,|AR| BEIN SPORT 2
-http://starshare.live:8080/live/imran007/imran007/4479.ts
-http://gbox.goldeniptv.com:25461/123321/123321/133203
-#EXTINF:-1,CH: MySports 2 FHD
-http://gbox.goldeniptv.com:25461/123321/123321/140968
-#EXTINF:-1,CH: MySports 4 FHD
-http://gbox.goldeniptv.com:25461/123321/123321/140969
-#EXTINF:-1,CH: MySports 5 FHD
-http://gbox.goldeniptv.com:25461/123321/123321/140970
-#EXTINF:-1,CH: MySports 6 HD
-http://gbox.goldeniptv.com:25461/123321/123321/140971
-#EXTINF:-1,CH: MySports 7 FHD
-http://gbox.goldeniptv.com:25461/123321/123321/140972
-#EXTINF:-1,CH: MySports 8 FHD
-http://gbox.goldeniptv.com:25461/123321/123321/140973
-#EXTINF:-1,CH: MySports 9 FHD
-http://gbox.goldeniptv.com:25461/123321/123321/140974
-#EXTINF:-1,USA: beIN SPORTS CONNECT 7
-http://gbox.goldeniptv.com:25461/123321/123321/144372
-#EXTINF:-1,USA: beIN SPORTS CONNECT 6
-http://gbox.goldeniptv.com:25461/123321/123321/144373
-#EXTINF:-1,USA: beIN SPORTS CONNECT 4
-http://gbox.goldeniptv.com:25461/123321/123321/144374
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India",IN: Sony Ten 1
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16622
@@ -506,12 +361,3 @@ http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/82628
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="India",IN: Star Sports Select 2
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16619
 
-
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="AllLiveSportsLinks-Sports",Sony Six HD https://netliveworld.xyz/autoq1234.php?c=Six_HD
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="AllLiveSportsLinks-Sports",Sony Six SD
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="AllLiveSportsLinks-Sports",Ten 1 HD https://netliveworld.xyz/autoq1234.php?c=Ten_HD
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="AllLiveSportsLinks-Sports",Ten 1 https://netliveworld.xyz/autoq1234.php?c=Ten_1
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="AllLiveSportsLinks-Sports",Ten 2 HD https://netliveworld.xyz/autoq1234.php?c=Ten2_HD
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="AllLiveSportsLinks-Sports",Ten 2 https://netliveworld.xyz/autoq1234.php?c=Ten_2
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="AllLiveSportsLinks-Sports",Ten 3 HD https://netliveworld.xyz/autoq1234.php?c=Ten3_HD
-#EXTINF:1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="AllLiveSportsLinks-Sports",Ten 3 https://netliveworld.xyz/autoq1234.php?c=Ten_3
